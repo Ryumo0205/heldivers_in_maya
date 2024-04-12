@@ -1,6 +1,9 @@
 # Helldivers in maya
 
-
+### BECOME A LEGEND !
+### BECOME A HERO !
+### BECOME A HELLDIVER !
+ 
 ![img](Demo.gif)
 
 
